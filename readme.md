@@ -6,14 +6,14 @@
 
 - 의미 있는 데이터인지 확인해 보기
     - 기본적으로 프로토 타입을 만들고 나서 이 데이터가 제대로 작동하는 지 아닌지 부터 우선 판별 하게 되었다.
-- [프로토타입 및 테스트](progress/00_proto.ipynb)
+- [프로토타입 및 테스트](horse_proto.ipynb)
 
 - 결정
 
     - ROC 커브를 기준으로 보았을 때 모델이 유효 하다고 판단을 하게 되어 팀원들의 만장일치를 받고 경마 데이터를 이용하여 프로젝트를 진행할 수 있게 되었다.
     - 여기서 알 수 있는 사항
         - 이전대회때 1위를 많이 한 경주마의 영향이 크다.(경주마 통산 1착 횟수)
-        ![결과 사진.png](00_proto_result.png)
+        ![결과 사진.png](pics/horse_proto.png)
 
 ### 2. [horse_prep_v0_5_1.ipynb](horse_prep_v0_5_1.ipynb)
 - 최종 corrolation : ![corr](pics/prep_01.png)
